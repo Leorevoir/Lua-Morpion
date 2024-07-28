@@ -22,7 +22,7 @@ sudo apt install love
 ### Clone the Repository
 
 ```bash
-git@github.com:Leorevoir/Lua-Tic-Tac-Toe.git tic-tac-toe
+git clone git@github.com:Leorevoir/Lua-Tic-Tac-Toe.git tic-tac-toe
 cd tic-tac-toe
 ```
 
